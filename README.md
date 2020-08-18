@@ -1,7 +1,11 @@
-# Engineered the Naive Bayes Algorithm from scratch. 
+# Engineered the Naive Bayes Algorithm from scratch
 <br>
 
-#### Dataset Available From:
+#### Portfolio Link
+
+[A Pretty Good Understanding of the Naive Bayes Algorithm](https://aufeld.github.io/2020-08-18-NaiveBayes/)
+
+#### Dataset Available From
 
 [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/student+performance)
 
